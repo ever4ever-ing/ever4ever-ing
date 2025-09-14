@@ -19,16 +19,6 @@ Siempre en busca de nuevos retos, tanto en la programación como sobre la bicicl
 
 ---
 
-## 🌟 Repositorios destacados
-
-- [talento_digital_fs25](https://github.com/ever4ever-ing/talento_digital_fs25) — Proyectos colaborativos de bootcamp talento digital.
-- [catalogo-TP](https://github.com/ever4ever-ing/catalogo-TP) — Sistema de gestión de catálogos robusto.
-- [PowerBI-40hrs](https://github.com/ever4ever-ing/PowerBI-40hrs) — Visualización y análisis de datos con Power BI.
-- [Examenes-FW](https://github.com/ever4ever-ing/Examenes-FW) — Framework para automatización y gestión de exámenes.
-- [modulo7_django_talentoDigital25](https://github.com/ever4ever-ing/modulo7_django_talentoDigital25) — Módulo Django para desarrollo de talento digital.
-
----
-
 ## 🏆 Valores y habilidades
 
 - Resolución de problemas
